@@ -5,6 +5,6 @@ The source code for three visualizations of citation networks extracted from a s
 
 The visualizations are online at:
 
-* [Macro-level](phd.mr56k.info/data/viz/macro.html)
-* [Meso-level](phd.mr56k.info/data/viz/meso.html)
-* [Micro-level](phd.mr56k.info/data/viz/micro.html)
+* [Macro-level](http://phd.mr56k.info/data/viz/macro.html)
+* [Meso-level](http://phd.mr56k.info/data/viz/meso.html)
+* [Micro-level](http://phd.mr56k.info/data/viz/micro.html)
